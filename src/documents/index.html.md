@@ -56,6 +56,7 @@ layout: default
           <li class="lead">Teach proper programming elegance to young developers.</li>
           <li class="lead">Move to a city closer to the beach.<span>And better weather.</span></li>
           <li class="lead">Build a proper workshop.</li>
+          <li class="lead">Get hired by Intagono.</li>
         </ul>
       </div>
       <div class="tab-pane" id="tab-about">
