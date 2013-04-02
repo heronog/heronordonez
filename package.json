@@ -23,8 +23,8 @@
 		"url" : "http://github.com/heronog/heronordonez.git"
 	},
 	"engines" : {
-		"node": "0.8.x",
-		"npm": "1.1.x"
+		"node": "0.10",
+		"npm": "1.2"
 	},
 	"dependencies": {
 		"docpad": "6.x",
@@ -41,5 +41,8 @@
 	"devDependencies": {
 		"docpad-plugin-livereload": "2.x"
 	},
-	"main": "node_modules/docpad/bin/docpad-server"
+	"main": "node_modules/docpad/bin/docpad-server",
+  "scripts": {
+      "start": "node_modules/docpad/bin/docpad-server"
+  }
 }
