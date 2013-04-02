@@ -10,7 +10,6 @@ layout: default
 </div>
 <div class="row">
   <div class="span10 offset1">
-    
     <ul class="nav nav-tabs" id="about-tabs">
       <li class="active"><a href="#tab-pro" data-toggle="tab"><i class="icon-briefcase icon-2x"></i> Work</a></li>
       <li><a href="#tab-me" data-toggle="tab"><i class="icon-bolt icon-2x"></i> Me</a></li>
@@ -18,7 +17,6 @@ layout: default
       <li><a href="#tab-plans" data-toggle="tab"><i class="icon-fast-forward icon-2x"></i> Future Plans</a></li>
       <li><a href="#tab-about" data-toggle="tab"><i class="icon-question-sign icon-2x"></i> About this website</a></li>
     </ul>
-    
     <div class="tab-content">
       <div class="tab-pane active" id="tab-pro">
         <ul>
