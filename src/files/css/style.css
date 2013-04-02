@@ -16,8 +16,7 @@ body {
 #main-content {
 	padding-top: 90px;
 	padding-top: calc(0px);
-  margin-bottom: 35px;
-  
+  padding-bottom: 60px;
 }
 
 footer {

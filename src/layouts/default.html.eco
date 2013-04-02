@@ -44,7 +44,7 @@
       </header>
       <article id="main-content" class="container">
         <%- @content %>
-      </div>
+      </article>
     	<footer>
     		<%= @partial('footer.html') %>
     	</footer>
@@ -52,6 +52,5 @@
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="/js/ui.js" type="text/javascript" charset="utf-8"></script>
-    
   </body>
 </html>
