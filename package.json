@@ -38,9 +38,6 @@
 		"docpad-plugin-associatedfiles": "2.x",
 		"docpad-plugin-thumbnails": "2.x"
 	},
-	"devDependencies": {
-		"docpad-plugin-livereload": "2.x"
-	},
 	"main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
       "start": "node_modules/docpad/bin/docpad-server"
